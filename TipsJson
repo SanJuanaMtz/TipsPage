@@ -3,8 +3,8 @@
     "Imagen" : { "https://i.pinimg.com/736x/85/82/27/85822733a64a8ef7974644422f6b565d.jpg"},
     "Info" : { "The world wide handsome"},
     "Info1" : { "jinnie"},
-    "Info2" : "The perfect man",
-    "Titulo" : "Kim SeokJin"
+    "Info2" : {"The perfect man"},
+    "Titulo" :{ "Kim SeokJin"}
   },
     "IdTip" : "2",
     "Imagen" : {"https://scontent-qro1-2.xx.fbcdn.net/v/t1.6435-9/185723164_1160625507782496_51818565646896193_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeEFyKaglCD_8KLdolTVDvXuuC7AMwGaiiG4LsAzAZqKIanLge3bSzkwr1IuOnrm4yLwDSdIkUDv7lc4fEcwu-1X&_nc_ohc=w5C4OANVYDsAX-nTlya&_nc_ht=scontent-qro1-2.xx&oh=783b09ada7894f06e6dc185b84b766cc&oe=60E0C099"},
