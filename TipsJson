@@ -1,23 +1,23 @@
 [{
-    "IdTip" : "1"{
-    "Imagen" : "https://i.pinimg.com/736x/85/82/27/85822733a64a8ef7974644422f6b565d.jpg",
-    "Info" : "The world wide handsome",
-    "Info1" : "jinnie",
+    "IdTip" : "1",
+    "Imagen" : { "https://i.pinimg.com/736x/85/82/27/85822733a64a8ef7974644422f6b565d.jpg"},
+    "Info" : { "The world wide handsome"},
+    "Info1" : { "jinnie"},
     "Info2" : "The perfect man",
     "Titulo" : "Kim SeokJin"
   },
-    "IdTip" : "2"{
-    "Imagen" : "https://scontent-qro1-2.xx.fbcdn.net/v/t1.6435-9/185723164_1160625507782496_51818565646896193_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeEFyKaglCD_8KLdolTVDvXuuC7AMwGaiiG4LsAzAZqKIanLge3bSzkwr1IuOnrm4yLwDSdIkUDv7lc4fEcwu-1X&_nc_ohc=w5C4OANVYDsAX-nTlya&_nc_ht=scontent-qro1-2.xx&oh=783b09ada7894f06e6dc185b84b766cc&oe=60E0C099",
-    "Info" : "1- Rodeate de personas que te inyecten energía, no dejes que otres proyecten sus miedos sobre ti.",
-    "Info1" : "2- Al planear tu viaje, tómate el tiempo suficiente para revisar en internet si la historia, la cultura y la educación del país al que vas te gustan y puedes generar un vínculo con en el que será tú nuevo hogar.",
-    "Info2" : "3- No te dejes llevar por prejuicios o comentarios que viste en la televisión, dale una oportunidad a la cultura y a la gente a la que estás por conocer, te mereces ser tú el escritor de tu vida.",
-    "Titulo" : "Aquí 3 tips para ayudarte a fluir en esta nueva aventura:"
+    "IdTip" : "2",
+    "Imagen" : {"https://scontent-qro1-2.xx.fbcdn.net/v/t1.6435-9/185723164_1160625507782496_51818565646896193_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeEFyKaglCD_8KLdolTVDvXuuC7AMwGaiiG4LsAzAZqKIanLge3bSzkwr1IuOnrm4yLwDSdIkUDv7lc4fEcwu-1X&_nc_ohc=w5C4OANVYDsAX-nTlya&_nc_ht=scontent-qro1-2.xx&oh=783b09ada7894f06e6dc185b84b766cc&oe=60E0C099"},
+    "Info" : { "1- Rodeate de personas que te inyecten energía, no dejes que otres proyecten sus miedos sobre ti."},
+    "Info1" :{ "2- Al planear tu viaje, tómate el tiempo suficiente para revisar en internet si la historia, la cultura y la educación del país al que vas te gustan y puedes generar un vínculo con en el que será tú nuevo hogar."},
+    "Info2" : {"3- No te dejes llevar por prejuicios o comentarios que viste en la televisión, dale una oportunidad a la cultura y a la gente a la que estás por conocer, te mereces ser tú el escritor de tu vida."},
+    "Titulo" : {"Aquí 3 tips para ayudarte a fluir en esta nueva aventura:}"
   },
     "IdTip" : "3"{
-    "Imagen" : "https://scontent-qro1-2.xx.fbcdn.net/v/t1.6435-9/130575527_1056524318192616_546462298908306642_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=a26aad&_nc_eui2=AeFkpOVb7-iwglmnBNSyUXJvfw6borBAQ0l_DpuisEBDSTDyJ07DtLtNqKQRRPP6rocKzOo86dyc3YTo81miYYOv&_nc_ohc=_a1XhGoPqEwAX8IBE1l&_nc_ht=scontent-qro1-2.xx&oh=b7606325e02d6bd97e1d873a8830c8d6&oe=60E20CAC",
-    "Info" : "Recomendamos que se haga una lista de palabras claves que deberían aparecer y que creemos que el empleador puede mirar en el CV como ➕“servicio al cliente” ➕”gerente de marketing” ➕”camarera” ➕ “cuidado de niños” etc. ♦️Formular un CV conciso y claro, mencionando solamente la información pertinente.",
-    "Info1" : "Al igual que la carta de presentación, el CV debe ser formal, es decir, las contracciones “I’m” y “can’t” deben ser reemplazadas por “I am” y “Can not”, por ejemplo. ♦️Debe adaptarse a cada trabajo que buscas, mencionando solamente la experiencia que se corresponda con la vacante a la que estás postulando.",
-    "Info2" : "♦️Debe tener, preferiblemente de 1 página, no más de 2 (a menos que la posición que se ofrece requiera de mucha experiencia).",
-    "Titulo" : "¡Emprender la búsqueda L͙A͙B͙O͙R͙A͙L͙!"
+    "Imagen" : {"https://scontent-qro1-2.xx.fbcdn.net/v/t1.6435-9/130575527_1056524318192616_546462298908306642_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=a26aad&_nc_eui2=AeFkpOVb7-iwglmnBNSyUXJvfw6borBAQ0l_DpuisEBDSTDyJ07DtLtNqKQRRPP6rocKzOo86dyc3YTo81miYYOv&_nc_ohc=_a1XhGoPqEwAX8IBE1l&_nc_ht=scontent-qro1-2.xx&oh=b7606325e02d6bd97e1d873a8830c8d6&oe=60E20CAC"},
+    "Info" : {"Recomendamos que se haga una lista de palabras claves que deberían aparecer y que creemos que el empleador puede mirar en el CV como ➕“servicio al cliente” ➕”gerente de marketing” ➕”camarera” ➕ “cuidado de niños” etc. ♦️Formular un CV conciso y claro, mencionando solamente la información pertinente."},
+    "Info1" : {"Al igual que la carta de presentación, el CV debe ser formal, es decir, las contracciones “I’m” y “can’t” deben ser reemplazadas por “I am” y “Can not”, por ejemplo. ♦️Debe adaptarse a cada trabajo que buscas, mencionando solamente la experiencia que se corresponda con la vacante a la que estás postulando."},
+    "Info2" : {"♦️Debe tener, preferiblemente de 1 página, no más de 2 (a menos que la posición que se ofrece requiera de mucha experiencia)."},
+    "Titulo" : { "¡Emprender la búsqueda L͙A͙B͙O͙R͙A͙L͙!"}
   }
 }]
